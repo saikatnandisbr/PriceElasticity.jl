@@ -1,2 +1,2 @@
 # PriceElasticity
-Estimation of price elasticity using Hierarchical Bayesian regression. Uses Probabilistic Programming extension of Turing in Julia.
+Estimation of price elasticity using Hierarchical Bayesian regression. Uses Turing, Probabilistic Programming extension to Julia.
