@@ -1,5 +1,10 @@
 module PriceElasticity
 
-# Write your package code here.
+# includes
+include("utils.jl")
+include("models.jl")
+
+# code
 
 end
+
